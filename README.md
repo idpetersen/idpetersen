@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=idpetersen)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **idpetersen/idpetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
